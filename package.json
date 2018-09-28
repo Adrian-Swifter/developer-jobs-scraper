@@ -1,0 +1,22 @@
+{
+  "name": "job-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrian-Swifter/developer-jobs-scraper.git"
+  },
+  "author": "Milos Draskovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrian-Swifter/developer-jobs-scraper/issues"
+  },
+  "homepage": "https://github.com/Adrian-Swifter/developer-jobs-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
