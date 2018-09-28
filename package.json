@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Adrian-Swifter/developer-jobs-scraper.git"
+    "url": "https://github.com/Adrian-Swifter/developer-jobs-scraper.git"
   },
   "author": "Milos Draskovic",
   "license": "ISC",
